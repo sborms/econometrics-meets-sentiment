@@ -1,6 +1,2 @@
-\begin{doi}
-* [\format[Replace("--,-"), RemoveBrackets]{\title}(\year)](\doi).\n\n\n\n
-\end{doi}
-\begin{url}
-* [\format[Replace("--,-"), RemoveBrackets]{\title}(\year)](\url).\n\n\n\n
-\end{url}
+* [\format[Replace("--,-"), RemoveBrackets, Replace("proglang,")]{\title} (\year)]\begin{doi}(\doi).\end{doi}\begin{url}(\url).\end{url}
+\n\n
