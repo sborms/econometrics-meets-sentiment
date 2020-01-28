@@ -1,2 +1,6 @@
-[\year - \format[Replace("--,-"), RemoveBrackets]{\title}] (\doi). \n\n
-\n\n
+\begin{doi}
+* [\format[Replace("--,-"), RemoveBrackets]{\title}(\year)](\doi).\n\n\n\n
+\end{doi}
+\begin{url}
+* [\format[Replace("--,-"), RemoveBrackets]{\title}(\year)](\url).\n\n\n\n
+\end{url}
