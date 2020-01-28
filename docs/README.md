@@ -1,7 +1,7 @@
 
-Sections to add: Literature, Links, Workflow, (Glossary).
+# Repository of sentometrics papers
 
-For the project page click [here](https://sborms.github.io/econometrics-meets-sentiment/).
+Sections to add: Literature, Links, Workflow, (Glossary).
 
 ## Literature
 
