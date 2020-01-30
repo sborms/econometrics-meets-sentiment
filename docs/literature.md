@@ -1,3 +1,6 @@
+
+# Literature
+
 * [Forecasting the equity premium: Mind the news! (2019)](https://doi.org/10.2139/ssrn.3370424).
 * [Who writes the news? Corporate press releases during merger negotiations (2014)](https://doi.org/10.1111/jofi.12109).
 * [Social Media and Fake News in the 2016 Election (2017)](https://doi.org/10.1257/jep.31.2.211).
@@ -223,3 +226,4 @@
 * [Character-level Convolutional Networks for Text Classification (2015)](http://arxiv.org/abs/1509.01626).
 * [A Review on Multi-Label Learning Algorithms (2014)](https://doi.org/10.1109/TKDE.2013.39).
 * [Regularization and Variable Selection via the Elastic Net (2005)](https://doi.org/10.1111/j.1467-9868.2005.00503.x).
+

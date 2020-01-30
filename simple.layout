@@ -1,2 +1,2 @@
-* [\format[Replace("--,-"), RemoveBrackets, Replace("proglang,")]{\title} (\year)]\begin{doi}(\doi).\end{doi}\begin{url}(\url).\end{url}
+* [\format[Replace("--,-"), RemoveBrackets, Replace("proglang,"), Replace("\\\R,R")]{\title} (\year)]\begin{doi}(https://doi.org/\doi).\end{doi}\begin{url}(\url).\end{url}
 \n\n
