@@ -3,17 +3,20 @@
 
 <div class="w3-container">
 <div class="w3-bar w3-border w3-light-grey">
-  <div class="w3-bar-item">[Literature](./literature.md)</div>
-  <div class="w3-bar-item">[Links](./links.md)</div>
-  <div class="w3-bar-item">[Glossary](./glossary.md)</div>
-  <div class="w3-bar-item">[Workflow](./workflow.md)</div>
+  <div class="w3-bar-item">[Literature](literature.md)</div>
+  <div class="w3-bar-item">[Links](links.md)</div>
+  <div class="w3-bar-item">[Glossary](glossary.md)</div>
+  <div class="w3-bar-item">[Workflow](workflow.md)</div>
 </div>
 </div>
+
+---
 
 # Literature
 
 * [Forecasting the equity premium: Mind the news! (2019)](https://doi.org/10.2139/ssrn.3370424).
 * [Who writes the news? Corporate press releases during merger negotiations (2014)](https://doi.org/10.1111/jofi.12109).
+* [Econometrics Meets Sentiment: An Overview of Methodology and Applications (2019)](https://doi.org/10.2139/ssrn.2652876).
 * [Social Media and Fake News in the 2016 Election (2017)](https://doi.org/10.1257/jep.31.2.211).
 * [The Structure of Voluntary Disclosure Narratives: Evidence from Tone Dispersion (2015)](https://doi.org/10.1111/1475-679X.12072).
 * [Inference in Group Factor Models with an Application to Mixed Frequency Data (2019)](https://doi.org/10.2139/ssrn.2731334).
@@ -64,7 +67,7 @@
 * [Beyond the Numbers: Measuring the Information Content of Earnings Press Release Language (2011)](https://doi.org/10.1111/j.1911-3846.2011.01130.x).
 * [The effect of manager-specific optimism on the tone of earnings conference calls (2015)](https://doi.org/10.1007/s11142-014-9309-4).
 * [Managers’ Use of Language Across Alternative Disclosure Outlets: Earnings Press Releases versus MD\&A (2012)](https://doi.org/10.1111/j.1911-3846.2011.01125.x).
-* [Noise trader risk in financial markets (1990)](https://www.jstor.org/stable/2937765 ).
+* [Noise trader risk in financial markets (1990)](https://www.jstor.org/stable/2937765).
 * [Towards an integrated pipeline for aspect-based sentiment analysis in various domains (2017)](https://doi.org/10.18653/v1/W17-5218).
 * [Text Preprocessing For Unsupervised Learning: Why It Matters, When It Misleads, And What To Do About It (2018)](https://doi.org/10.1017/pan.2017.44).
 * [Bank Runs, Deposit Insurance, and Liquidity (1983)](https://doi.org/10.1086/261155).
