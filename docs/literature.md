@@ -1,4 +1,12 @@
 
+[Literature](./literature.md)
+
+[Links](./links.md)
+
+[Glossary](./glossary.md)
+
+[Workflow](./workflow.md)
+
 # Literature
 
 * [Forecasting the equity premium: Mind the news! (2019)](https://doi.org/10.2139/ssrn.3370424).
