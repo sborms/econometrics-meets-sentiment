@@ -1,11 +1,14 @@
 
-[Literature](./literature.md)
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-[Links](./links.md)
-
-[Glossary](./glossary.md)
-
-[Workflow](./workflow.md)
+<div class="w3-container">
+<div class="w3-bar w3-border w3-light-grey">
+  <div class="w3-bar-item">[Literature](./literature.md)</div>
+  <div class="w3-bar-item">[Links](./links.md)</div>
+  <div class="w3-bar-item">[Glossary](./glossary.md)</div>
+  <div class="w3-bar-item">[Workflow](./workflow.md)</div>
+</div>
+</div>
 
 # Links
 
@@ -25,17 +28,17 @@ See [here](https://www.gdeltproject.org for the Global Database of Events, Langu
 
 See [here](https://skymind.ai/wiki/open-datasets) for an open--source textual, audio and visual data repository.
 
-See [here](http://newsdiffs.org) for a ``live" news database.
+See [here](http://newsdiffs.org) for a "live" news database.
 
 ### Facial analysis
 
-See https://plus-sensing.omron.com/technology for the OKAO software.
+See [here](https://plus-sensing.omron.com/technology) for the OKAO software.
 
-See https://www.luxand.com/facesdk for the Luxand FaceSDK software.
+See [here](https://www.luxand.com/facesdk) for the Luxand FaceSDK software.
 
 ### Textual analysis
 
-See [here](https://CRAN.R-project.org/view=NaturalLanguageProcessing) for CRAN's Task View ``NaturalLanguageProcessing".
+See [here](https://CRAN.R-project.org/view=NaturalLanguageProcessing) for CRAN's Task View "NaturalLanguageProcessing".
 
 See [here](https://quanteda.io/articles/pkgdown/comparison.html) for a comparison of textual analysis functionalities in R and Python.
 

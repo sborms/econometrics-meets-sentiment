@@ -1,7 +1,7 @@
 
 ### To go to the web page click [here](https://sborms.github.io/econometrics-meets-sentiment/).
 
-To add material you find interesting, go to the [docs](https://github.com/sborms/econometrics-meets-sentiment/tree/master/docs)
+To add material you find interesting, go to the [docs](https://github.com/sborms/econometrics-meets-sentiment/tree/master/docs) folder and modify the according tab. Save and wait before it is merged, then it will appear on the web page.
 
-This page was created as part of this [survey](https://doi.org/10.2139/ssrn.2652876) paper on the sentometrics research field.
+This page was created as part of a [survey](https://doi.org/10.2139/ssrn.2652876) paper on the sentometrics research field.
 
