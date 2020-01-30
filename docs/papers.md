@@ -1,14 +1,5 @@
 
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
-<div class="w3-container">
-<div class="w3-bar w3-border w3-light-grey">
-  <div class="w3-bar-item">[Literature](literature.md)</div>
-  <div class="w3-bar-item">[Links](links.md)</div>
-  <div class="w3-bar-item">[Glossary](glossary.md)</div>
-  <div class="w3-bar-item">[Workflow](workflow.md)</div>
-</div>
-</div>
+| [Index](index.md) | [PAPERS](papers.md) | [Links](links.md) | [Glossary](glossary.md) | [Workflow](workflow.md) |
 
 ---
 
@@ -16,7 +7,7 @@
 
 * [Forecasting the equity premium: Mind the news! (2019)](https://doi.org/10.2139/ssrn.3370424).
 * [Who writes the news? Corporate press releases during merger negotiations (2014)](https://doi.org/10.1111/jofi.12109).
-* [Econometrics Meets Sentiment: An Overview of Methodology and Applications (2019)](https://doi.org/10.2139/ssrn.2652876).
+* [Econometrics Meets Sentiment: An Overview of Methodology and Applications (2020)](https://doi.org/10.2139/ssrn.2652876).
 * [Social Media and Fake News in the 2016 Election (2017)](https://doi.org/10.1257/jep.31.2.211).
 * [The Structure of Voluntary Disclosure Narratives: Evidence from Tone Dispersion (2015)](https://doi.org/10.1111/1475-679X.12072).
 * [Inference in Group Factor Models with an Application to Mixed Frequency Data (2019)](https://doi.org/10.2139/ssrn.2731334).
