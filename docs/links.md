@@ -1,11 +1,9 @@
 
 | [Index](index.md) | [Papers](papers.md) | [LINKS](links.md) | [Glossary](glossary.md) | [Workflow](workflow.md) |
 
----
-
 # Links
 
-We group below a set of useful links to public code, data and tools related to material mentioned throughout the paper.
+We group below a set of various links to public code, data and tools.
 
 ### Audio analysis
 

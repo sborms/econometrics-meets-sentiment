@@ -1,8 +1,6 @@
 
 | [Index](index.md) | [Papers](papers.md) | [Links](links.md) | [Glossary](glossary.md) | [WORKFLOW](workflow.md) |
 
----
-
 # Workflow
 
 ![workflow](workflow.png)

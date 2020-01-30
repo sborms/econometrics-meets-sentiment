@@ -1,9 +1,10 @@
 
 | [Index](index.md) | [PAPERS](papers.md) | [Links](links.md) | [Glossary](glossary.md) | [Workflow](workflow.md) |
 
----
+<!--- TODO: make sure DOI links work, fallback if no link --->
+<!--- TODO: arrange (automatically) by year --->
 
-# Literature
+# Papers
 
 * [Forecasting the equity premium: Mind the news! (2019)](https://doi.org/10.2139/ssrn.3370424).
 * [Who writes the news? Corporate press releases during merger negotiations (2014)](https://doi.org/10.1111/jofi.12109).
@@ -171,7 +172,7 @@
 * [SentiWS - A Publicly Available German-language Resource for Sentiment Analysis (2010)](http://www.lrec-conf.org/proceedings/lrec2010/pdf/490_Paper.pdf).
 * [SentiBench - A benchmark comparison of state-of-the-practice sentiment analysis methods (2016)](https://doi.org/10.1140/epjds/s13688-016-0085-1).
 * [Exploring the validity of electronic newspaper databases (2012)](https://doi.org/10.1080/13645579.2011.638221).
-* [Analyzing media messages: Using quantitative content analysis in research (Fourth Edition) (2019)](https://doi.org/10.4324/9780203551691).
+* [Analyzing media messages: Using quantitative content analysis in research (2019)](https://doi.org/10.4324/9780203551691).
 * [rJST: Joint Sentiment Topic Modelling (2019)](https://CRAN.R-project.org/package=rJST).
 * [A Model of Text for Experimentation in the Social Sciences (2016)](https://doi.org/10.1080/01621459.2016.1141684).
 * [Disclosure Tone and Shareholder Litigation (2011)](https://doi.org/10.2308/accr-10137).
@@ -225,7 +226,7 @@
 * [Housing booms and media coverage (2014)](https://doi.org/10.1080/00036846.2014.948675).
 * [Survey of compressed-domain features used in audio-visual indexing and analysis (2003)](https://doi.org/10.1016/S1047-3203(03)00019-1).
 * [Hashing for Similarity Search: A Survey (2014)](http://arxiv.org/abs/1408.2927).
-* [Finding News Stories: A Comparison of Searhes using LexisNexis and Google News (2008)](https://doi.org/10.1177/107769900808500303).
+* [Finding News Stories: A Comparison of Searches using LexisNexis and Google News (2008)](https://doi.org/10.1177/107769900808500303).
 * [Financial Stability and the Fed: Evidence from Congressional Hearings (2019)](https://www.dnb.nl/binaries/Working%20paper%20No.%20633_tcm46-383881.pdf).
 * [Affective News: The Automated Coding of Sentiment in Political Texts (2012)](https://doi.org/10.1080/10584609.2012.671234).
 * [Character-level Convolutional Networks for Text Classification (2015)](http://arxiv.org/abs/1509.01626).

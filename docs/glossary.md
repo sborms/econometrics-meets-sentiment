@@ -1,8 +1,6 @@
 
 | [Index](index.md) | [Papers](papers.md) | [Links](links.md) | [GLOSSARY](glossary.md) | [Workflow](workflow.md) |
 
----
-
 # Glossary
 
 **Corpus** A corpus in linguistics jargon designates the collection of textual data units, for instance documents, to be analyzed. It can be generalized to indicate the collection of data units from textual, audio or visual data.
