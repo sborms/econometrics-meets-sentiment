@@ -15,7 +15,7 @@ See [here](https://www.vocapia.com) for the Vocapia speech--to--text software.
 
 ### Data
 
-See [here](https://www.gdeltproject.org for the Global Database of Events, Language, and Tone (GDELT)) project.
+See [here](https://www.gdeltproject.org) for the Global Database of Events, Language, and Tone (GDELT) project.
 
 See [here](https://skymind.ai/wiki/open-datasets) for an open--source textual, audio and visual data repository.
 
