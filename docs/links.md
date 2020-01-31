@@ -1,5 +1,5 @@
 
-| [Index](index.md) | [Papers](papers.md) | [LINKS](links.md) | [Glossary](glossary.md) | [Workflow](workflow.md) |
+| [Index](index.md) | [Papers](papers.md) | [LINKS](links.md) | [Workflow](workflow.md) | [Glossary](glossary.md) |
 
 # Links
 
@@ -41,7 +41,7 @@ See [here](https://github.com/AsafManela/HurdleDMR.jl) for the Distributed Multi
 
 ### Textual indices
 
-See [here](http://www.policyuncertainty.com for various Economic Policy Uncertainty (EPU)) indices.
+See [here](http://www.policyuncertainty.com) for various Economic Policy Uncertainty (EPU) indices.
 
 See [here](https://www.retriever-info.com/fni) for Retriever's online publication of its Norwegian text--based economic index. 
 

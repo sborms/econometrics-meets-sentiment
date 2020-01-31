@@ -1,5 +1,5 @@
 
-| [Index](index.md) | [PAPERS](papers.md) | [Links](links.md) | [Glossary](glossary.md) | [Workflow](workflow.md) |
+| [Index](index.md) | [PAPERS](papers.md) | [Links](links.md) | [Workflow](workflow.md) | [Glossary](glossary.md) |
 
 <!--- TODO: make sure DOI links work, fallback if no link --->
 <!--- TODO: arrange (automatically) by year --->

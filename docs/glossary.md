@@ -1,5 +1,5 @@
 
-| [Index](index.md) | [Papers](papers.md) | [Links](links.md) | [GLOSSARY](glossary.md) | [Workflow](workflow.md) |
+| [Index](index.md) | [Papers](papers.md) | [Links](links.md) | [Workflow](workflow.md) | [GLOSSARY](glossary.md) |
 
 # Glossary
 

@@ -1,5 +1,7 @@
 
-| [Index](index.md) | [Papers](papers.md) | [Links](links.md) | [Glossary](glossary.md) | [WORKFLOW](workflow.md) |
+| [Index](index.md) | [Papers](papers.md) | [Links](links.md) | [WORKFLOW](workflow.md) | [Glossary](glossary.md) |
+
+<!--- try to embed .pdf figure (.png contains errors and is badly formatted) --->
 
 # Workflow
 
