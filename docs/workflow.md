@@ -1,13 +1,11 @@
 
 | [Index](index.md) | [Papers](papers.md) | [Links](links.md) | [WORKFLOW](workflow.md) | [Glossary](glossary.md) |
 
-<!--- try to embed .pdf figure (.png contains errors and is badly formatted) --->
-
 # Workflow
 
-![workflow](workflow.png)
-
 A complete sentometrics workflow extends a typical applied econometrics process with the additional steps inherent to the use of qualitative data that needs to be transformed into numbers. The workflow serves to discover or confirm a certain theory or hypothesis, and therefore starts with a **question**. A clear question is important, because the tools to solve respective questions might be very different. For instance, in macroeconomics and politics one is particularly interested in aggregate categorizations, whereas in computer science, the interest lies more in the correct classification of individual data units. A generic example of a question is what, and how large, the effect of a set of particular sentiment variables is on a continuous variable of interest.
+
+![workflow](workflow.png)
 
 The initial step towards answering the question is the acquisition of the data needed to construct the sentiment variables from. **Qualitative sentiment data** consists of expressions in the form of verbal or non--verbal communication, naturally leading to three datatypes, namely textual, audio and visual data. Examples are news media articles, conference calls, and images. Each data point may already contain a rich metadata component including elements such as the date and the source.
 
