@@ -5,3 +5,5 @@ Welcome to this open-source repository of useful material revolving around the s
 
 Contact [Samuel Borms](mailto:borms_sam@hotmail.com) if you have questions or suggestions.
 
+**Last update**: February 5, 2020.
+
