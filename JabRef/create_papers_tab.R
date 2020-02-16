@@ -5,8 +5,9 @@ HEADER <- c(
 # Papers
     
 The papers listed are ordered chronologically by year.  
+
 ---
-&nbsp;  "
+"
 )
 
 papersRaw <- readLines("JabRef/papers_in.txt")

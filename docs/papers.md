@@ -3,8 +3,9 @@
 # Papers
     
 The papers listed are ordered chronologically by year.  
+
 ---
-&nbsp;  
+
 **2020**
 
 * [Econometrics Meets Sentiment: An Overview of Methodology and Applications](https://doi.org/10.2139/ssrn.2652876)
