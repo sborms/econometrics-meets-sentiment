@@ -5,12 +5,12 @@
     
 The papers listed are ordered chronologically by year.
 
-### **2020**
+### 2020
 
 * [Econometrics Meets Sentiment: An Overview of Methodology and Applications](https://doi.org/10.2139/ssrn.2652876)
 * [The R Package sentometrics to Compute, Aggregate and Predict with Textual Sentiment](https://doi.org/10.2139/ssrn.3067734)
 
-### **2019**
+### 2019
 
 * [Forecasting the equity premium: Mind the news!](https://doi.org/10.2139/ssrn.3370424)
 * [Inference in Group Factor Models with an Application to Mixed Frequency Data](https://doi.org/10.3982/ECTA14690)
@@ -35,7 +35,7 @@ The papers listed are ordered chronologically by year.
 * [TextBlob: Simplified Text Processing](https://github.com/sloria/TextBlob)
 * [Financial Stability and the Fed: Evidence from Congressional Hearings](https://www.dnb.nl/binaries/Working%20paper%20No.%20633_tcm46-383881.pdf)
 
-### **2018**
+### 2018
 
 * [Quantifying Confidence](https://doi.org/10.3982/ECTA13079)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805v2)
@@ -59,7 +59,7 @@ The papers listed are ordered chronologically by year.
 * [Words are the New Numbers: A Newsy Coincident Index of the Business Cycle](https://doi.org/10.1080/07350015.2018.1506344)
 * [Belgian economic policy uncertainty index: Improvement through text mining](https://doi.org/10.1016/j.ijforecast.2016.08.006)
 
-### **2017**
+### 2017
 
 * [Social Media and Fake News in the 2016 Election](https://doi.org/10.1257/jep.31.2.211)
 * [Media sentiment and IPO underpricing](https://doi.org/10.1016/j.jcorpfin.2017.06.003)
@@ -85,7 +85,7 @@ The papers listed are ordered chronologically by year.
 * [spaCy 2: Natural language understanding with Bloom embeddings, convolutional neural networks and incremental parsing](https://spacy.io)
 * [Do Media Data Help to Predict German Industrial Production?](https://doi.org/10.1002/for.2449)
 
-### **2016**
+### 2016
 
 * [iFeel 2.0: A Multilingual Benchmarking System for Sentence-Level Sentiment Analysis](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13039)
 * [Managers set the tone: Equity incentives and the tone of earnings press releases](https://doi.org/10.1016/j.jbankfin.2015.10.007)
@@ -108,7 +108,7 @@ The papers listed are ordered chronologically by year.
 * [TensorFlow: A system for large-scale machine learning](https://ai.google/research/pubs/pub45381)
 * [tidytext: Text Mining and Analysis Using Tidy Data Principles in R](https://doi.org/10.21105/joss.00037)
 
-### **2015**
+### 2015
 
 * [The Structure of Voluntary Disclosure Narratives: Evidence from Tone Dispersion](https://doi.org/10.1111/1475-679X.12072)
 * [Text mining for central banks](https://www.bankofengland.co.uk/ccbs/text-mining-for-central-banks)
@@ -131,7 +131,7 @@ The papers listed are ordered chronologically by year.
 * [The good, the bad and the implicit: A comprehensive approach to annotating explicit and implicit sentiment](https://doi.org/10.1007/s10579-015-9297-4)
 * [Character-level Convolutional Networks for Text Classification](http://arxiv.org/abs/1509.01626)
 
-### **2014**
+### 2014
 
 * [Who writes the news? Corporate press releases during merger negotiations](https://doi.org/10.1111/jofi.12109)
 * [Every tweet counts? How sentiment analysis of social media can improve our knowledge of citizens' political preferences with an application to Italy and France](https://doi.org/10.1177/1461444813480466)
@@ -152,7 +152,7 @@ The papers listed are ordered chronologically by year.
 * [Hashing for Similarity Search: A Survey](http://arxiv.org/abs/1408.2927)
 * [A Review on Multi-Label Learning Algorithms](https://doi.org/10.1109/TKDE.2013.39)
 
-### **2013**
+### 2013
 
 * [Sentiments](https://doi.org/10.3982/ECTA10008)
 * [Good news, bad news, and consumer confidence](https://doi.org/10.1111/j.1540-6237.2012.00900.x)
@@ -169,7 +169,7 @@ The papers listed are ordered chronologically by year.
 * [Multinomial Inverse Regression for Text Analysis](https://doi.org/10.1080/01621459.2012.734168)
 * [Measuring Political Sentiment on Twitter: Factor Optimal Design for Multinomial Inverse Regression](https://doi.org/10.1080/00401706.2013.778791)
 
-### **2012**
+### 2012
 
 * [Information, Animal Spirits, and the Meaning of Innovations in Consumer Confidence](https://doi.org/10.1257/aer.102.4.1343)
 * [Managers’ Use of Language Across Alternative Disclosure Outlets: Earnings Press Releases versus MD\&A](https://doi.org/10.1111/j.1911-3846.2011.01125.x)
@@ -182,7 +182,7 @@ The papers listed are ordered chronologically by year.
 * [Reading between the lines: An empirical examination of qualitative attributes of financial analysts’ reports](https://doi.org/10.1016/j.jaccpubpol.2011.10.010)
 * [Affective News: The Automated Coding of Sentiment in Political Texts](https://doi.org/10.1080/10584609.2012.671234)
 
-### **2011**
+### 2011
 
 * [Cooooooooooooooollllllllllllll!!!!!!!!!!!!!!: using word lengthening to detect sentiment in microblogs](https://www.aclweb.org/anthology/D11-1052)
 * [Beyond the Numbers: Measuring the Information Content of Earnings Press Release Language](https://doi.org/10.1111/j.1911-3846.2011.01130.x)
@@ -198,7 +198,7 @@ The papers listed are ordered chronologically by year.
 * [Discovering Fine-Grained Sentiment with Latent Variable Structured Prediction Models](https://doi.org/10.1007/978-3-642-20161-5_37)
 * [All the News That's Fit to Reprint: Do Investors React to Stale Information?](https://doi.org/10.1093/rfs/hhq141)
 
-### **2010**
+### 2010
 
 * [SentiWordNet 3.0: An Enhanced Lexical Resource for Sentiment Analysis and Opinion Mining](http://www.lrec-conf.org/proceedings/lrec2010/pdf/769_Paper.pdf)
 * [The Tone of Local Presidential News Coverage](https://doi.org/10.1080/10584600903502623)
@@ -210,7 +210,7 @@ The papers listed are ordered chronologically by year.
 * [The Information Content of Forward-Looking Statements in Corporate Filings - A Naive Bayesian Machine Learning Approach](https://doi.org/10.1111/j.1475-679X.2010.00382.x)
 * [SentiWS - A Publicly Available German-language Resource for Sentiment Analysis](http://www.lrec-conf.org/proceedings/lrec2010/pdf/490_Paper.pdf)
 
-### **2009**
+### 2009
 
 * [The Effect of Disclosures by Management, Analysts, and Business Press on Cost of Capital, Return Volatility, and Analyst Forecasts: A Study Using Content Analysis](https://doi.org/10.2308/accr.2009.84.5.1639)
 * [Joint Sentiment/Topic Model for Sentiment Analysis](https://doi.org/10.1145/1645953.1646003)
@@ -218,7 +218,7 @@ The papers listed are ordered chronologically by year.
 * [A Wolf in Sheep's Clothing: The Use of Ethics-Related Terms in 10-K Reports](https://doi.org/10.1007/s10551-008-9910-1)
 * [Natural Language Processing with Python](https://www.nltk.org/book)
 
-### **2008**
+### 2008
 
 * [Are Investors Influenced By How Earnings Press Releases Are Written?](https://doi.org/10.1177/0021943608319388)
 * [Annual report readability, current earnings, and earnings persistence](https://doi.org/10.1016/j.jacceco.2008.02.003)
@@ -227,7 +227,7 @@ The papers listed are ordered chronologically by year.
 * [Text Mining Infrastructure in R](https://doi.org/10.18637/jss.v025.i05)
 * [Finding News Stories: A Comparison of Searches using LexisNexis and Google News](https://doi.org/10.1177/107769900808500303)
 
-### **2007**
+### 2007
 
 * [Investor Sentiment in the Stock Market](https://doi.org/10.1257/jep.21.2.129)
 * [A correlated topic model of Science](https://doi.org/10.1214/07-AOAS114)
@@ -236,7 +236,7 @@ The papers listed are ordered chronologically by year.
 * [Framing, Agenda Setting, and Priming: The Evolution of Three Media Effects Models](https://doi.org/10.1111/j.0021-9916.2007.00326.x)
 * [Giving Content to Investor Sentiment: The Role of Media in the Stock Market](https://doi.org/10.1111/j.1540-6261.2007.01232.x)
 
-### **2006**
+### 2006
 
 * [Investor Sentiment and the Cross-Section of Stock Returns](https://doi.org/10.1111/j.1540-6261.2006.00885.x)
 * [Dynamic Topic Models](https://doi.org/10.1145/1143844.1143859)
@@ -245,12 +245,12 @@ The papers listed are ordered chronologically by year.
 * [Fully automatic lexicon expansion for domain-oriented sentiment analysis](https://www.aclweb.org/anthology/W06-1642)
 * [Handbook of Economic Forecasting](https://doi.org/10.1016/S1574-0706(05)01004-9)
 
-### **2005**
+### 2005
 
 * [Investor Sentiment and Asset Valuation](https://doi.org/10.1016/j.sepro.2011.11.023)
 * [Regularization and Variable Selection via the Elastic Net](https://doi.org/10.1111/j.1467-9868.2005.00503.x)
 
-### **2004**
+### 2004
 
 * [Is all that talk just noise? The information content of internet stock message boards](https://doi.org/10.1111/j.1540-6261.2004.00662.x)
 * [Investor sentiment and the near-term stock market](https://doi.org/10.1016/j.jempfin.2002.12.001)
@@ -258,40 +258,40 @@ The papers listed are ordered chronologically by year.
 * [Consumer Confidence and Consumer Spending](https://doi.org/10.1257/0895330041371222)
 * [WordNet-Affect: An Affective Extension of WordNet](http://www.lrec-conf.org/proceedings/lrec2004/pdf/369.pdf)
 
-### **2003**
+### 2003
 
 * [Latent Dirichlet Allocation](http://dl.acm.org/citation.cfm?id=944919.944937)
 * [A real-time data set for macroeconomists: Does the data vintage matter?](https://doi.org/10.1162/003465303322369759)
 * [Survey of compressed-domain features used in audio-visual indexing and analysis](https://doi.org/10.1016/S1047-3203(03)00019-1)
 
-### **2002**
+### 2002
 
 * [Two-Sided Equivalence Testing Of The Difference Between Two Means](https://doi.org/10.22237/jmasm/1020255540)
 * [Thumbs Up? Sentiment Classification Using Machine Learning Techniques](https://doi.org/10.3115/1118693.1118704)
 * [Thumbs up or thumbs down? Semantic orientation applied to unsupervised classification of reviews](https://doi.org/10.3115/1073083.1073153)
 
-### **2001**
+### 2001
 
 * [Is Sound Just Noise?](https://doi.org/10.1111/0022-1082.00393)
 * [Unsupervised Learning by Probabilistic Latent Semantic Analysis](https://doi.org/10.1023/A:1007617005950)
 
-### **1999**
+### 1999
 
 * [Affective norms for English words (ANEW): Instruction manual and affective ratings](https://www.uvm.edu/pdodds/teaching/courses/2009-08UVM-300/docs/others/everything/bradley1999a.pdf)
 
-### **1997**
+### 1997
 
 * [Predicting the semantic orientation of adjectives](https://doi.org/10.3115/976909.979640)
 
-### **1996**
+### 1996
 
 * [Regression Shrinkage and Selection via the Lasso](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
 
-### **1995**
+### 1995
 
 * [WordNet: A lexical database for English](https://doi.org/10.1145/219717.219748)
 
-### **1936-1990**
+### 1936-1990
 
 * [Noise trader risk in financial markets](https://www.jstor.org/stable/2937765)
 * [How Useful Is the Sentiment Index?](https://doi.org/10.2469/faj.v44.n5.45)

@@ -20,7 +20,7 @@ papers <- lapply(papersRaw, function(x) substr(x, 10, nchar(x)))
 out <- NULL
 for (i in seq_along(periods)) {
   per <- periods[[i]]
-  out <- c(out, paste0("### **", per, "**", "\n"))
+  out <- c(out, paste0("### ", per, "\n"))
   for (paper in papers[which(periodsAll == per)]) {
     out <- c(out, paste0("* ", paper))
   }
