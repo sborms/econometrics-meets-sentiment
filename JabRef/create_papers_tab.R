@@ -4,8 +4,9 @@ HEADER <- c(
     
 # Papers
     
-The papers listed are ordered chronologically by year.
-"
+The papers listed are ordered chronologically by year.  
+
+&nbsp;  "
 )
 
 papersRaw <- readLines("JabRef/papers_in.txt")
@@ -21,13 +22,12 @@ for (i in seq_along(periods)) {
   per <- periods[[i]]
   out <- c(out, paste0("**", per, "**", "\n"))
   for (paper in papers[which(periodsAll == per)]) {
-    out <- c(out, paste0("* ", paper, "\n"))
+    out <- c(out, paste0("* ", paper))
   }
-  if (i != length(periods)) out <- c(out, "&nbsp;\n")
-  # out <- c(out, "\n\n")
+  if (i != length(periods)) out <- c(out, "\n&nbsp;  ")
 }
 
-out <- c(HEADER, out)
+out <- c(HEADER, out, "")
 
 con <- file("docs/papers.md")
 writeLines(out, con, sep = "\n")
