@@ -5,7 +5,7 @@ HEADER <- c(
 # Papers
     
 The papers listed are ordered chronologically by year.  
-
+---
 &nbsp;  "
 )
 
