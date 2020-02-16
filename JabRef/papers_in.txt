@@ -168,7 +168,7 @@
 * 2010 - [What Drives Media Slant? Evidence From U.S. Daily Newspapers](https://doi.org/10.3982/ECTA7195)
 * 2010 - [Regularization Paths for Generalized Linear Models via Coordinate Descent](https://doi.org/10.18637/jss.v033.i01)
 * 2010 - [A Method of Automated Nonparametric Content Analysis for Social Science](https://doi.org/10.1111/j.1540-5907.2009.00428.x)
-* 2010 - [The Information Content of Forward-Looking Statements in Corporate Filings-A Na\"ive Bayesian Machine Learning Approach](https://doi.org/10.1111/j.1475-679X.2010.00382.x)
+* 2010 - [The Information Content of Forward-Looking Statements in Corporate Filings - A Naive Bayesian Machine Learning Approach](https://doi.org/10.1111/j.1475-679X.2010.00382.x)
 * 2010 - [SentiWS - A Publicly Available German-language Resource for Sentiment Analysis](http://www.lrec-conf.org/proceedings/lrec2010/pdf/490_Paper.pdf)
 * 2009 - [The Effect of Disclosures by Management, Analysts, and Business Press on Cost of Capital, Return Volatility, and Analyst Forecasts: A Study Using Content Analysis](https://doi.org/10.2308/accr.2009.84.5.1639)
 * 2009 - [Joint Sentiment/Topic Model for Sentiment Analysis](https://doi.org/10.1145/1645953.1646003)

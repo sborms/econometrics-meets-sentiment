@@ -1,0 +1,3 @@
+
+deal in parsing with special symbols (e.g. \" in naïve)
+watch out to not overwrite non-JabRef entries in create_papers_tab.R
