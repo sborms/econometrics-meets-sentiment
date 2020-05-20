@@ -1,2 +1,0 @@
-deal in parsing with special symbols (e.g. \" in naïve)
-watch out in create_papers_tab.R to not overwrite non-JabRef collaborative entries

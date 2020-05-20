@@ -1,4 +1,7 @@
 
+### TODO: don't overwrite non-JabRef collaborative entries if any
+### TODO: deal in JabRef parsing with special symbols (e.g. \" in naïve)
+
 HEADER <- c(
 "
 | [Welcome](index.md) | [Papers](papers.md) | [Links](links.md) | [Workflow](workflow.md) | [Glossary](glossary.md) |

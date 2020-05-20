@@ -1,8 +1,6 @@
 
-## Collaborative sentometrics research repository
+## Collaborative sentometrics research repository ([web page](https://sborms.github.io/econometrics-meets-sentiment/))
 
-### Click [here](https://sborms.github.io/econometrics-meets-sentiment/) to go to the web page.
-  
 To add material, go to the [docs](https://github.com/sborms/econometrics-meets-sentiment/tree/master/docs) folder and modify the according Markdown file. File an issue if you need help!
 
 ![logo](docs/logo.png)
