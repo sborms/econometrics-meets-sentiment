@@ -5,7 +5,7 @@
 
 **Corpus** A corpus in linguistics jargon designates the collection of textual data units (e.g. documents) to be analyzed. It can be generalized to indicate the collection of data units from textual, audio, or visual data.
 
-**Features** A feature is a broad term to represent any type of metadata attached to the original textual, audio, or visual data as stored in a corpus. Examples are source, expresser, entity, location, topic, and so on. This definition is slightly different but in line with how features are used in a machine learning context, where they refer to the set of explanatory variables. In video and audio data, (low-level) features are compact, mathematical representations of the physical properties of the data [Wang et al. (2003)](https://www.sciencedirect.com/science/article/pii/S1047320303000191?via%3Dihub).
+**Features** A feature is a broad term to represent any type of metadata attached to the original textual, audio, or visual data as stored in a corpus. Examples are source, expresser, entity, location, topic, and so on. This definition is slightly different but in line with how features are used in a machine learning context, where they refer to the set of explanatory variables. In video and audio data, (low-level) features are compact, mathematical representations of the physical properties of the data [(Wang et al., 2003)](https://www.sciencedirect.com/science/article/pii/S1047320303000191?via%3Dihub).
 
 **Lexicon** A lexicon is a list of tokens (e.g. words, a sequence of words, a facial expression, or a sound) with, for each token, an associated score that represents its average sentiment. Also interchangeably called a sentiment lexicon, a sentiment word list, or a sentiment dictionary.
 
@@ -21,5 +21,5 @@
 
 **Supervised learning** Supervised learning is a branch of machine learning that requires an annotated data set (i.e. a set of input data with associated output values) to train a model.
 
-**Unsupervised learning** Unsupervised learning is a branch of machine learning where the input data decide the output categories or representation by themselves. Any unsupervised method is typically hybrid or semisupervised, as there is often need for certain minimal inputs from the modeler.
+**Unsupervised learning** Unsupervised learning is a branch of machine learning where the input data decide the output categories or representation by themselves. Any unsupervised method is typically hybrid or semi-supervised, as there is often need for certain minimal inputs from the modeler.
 

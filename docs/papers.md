@@ -7,12 +7,18 @@ The papers listed are ordered chronologically by year.
 
 ### 2020
 
+* [Forecasting the equity premium: Mind the news!](https://doi.org/10.1093/rof/rfaa007)
 * [Econometrics Meets Sentiment: An Overview of Methodology and Applications](https://doi.org/10.2139/ssrn.2652876)
+* [Economic Policy Uncertainty in the Euro Area: An Unsupervised Machine Learning Approach](https://ssrn.com/abstract=3516756)
+* [COVID-Induced Economic Uncertainty](https://www.policyuncertainty.com/media/COVID-Induced%20Economic%20Uncertainty.pdf)
+* [The Economic Policy Uncertainty index for Flanders, Wallonia and Belgium](https://doi.org/10.2139/ssrn.3580000)
+* [Hedging Climate Change News](https://doi.org/10.1093/rfs/hhz072)
+* [News-driven inflation expectations and information rigidities](https://doi.org/10.1016/j.jmoneco.2020.03.004)
 * [The R Package sentometrics to Compute, Aggregate and Predict with Textual Sentiment](https://doi.org/10.2139/ssrn.3067734)
+* [Words are the New Numbers: A Newsy Coincident Index of the Business Cycle](https://doi.org/10.1080/07350015.2018.1506344)
 
 ### 2019
 
-* [Forecasting the equity premium: Mind the news!](https://doi.org/10.2139/ssrn.3370424)
 * [Inference in Group Factor Models with an Application to Mixed Frequency Data](https://doi.org/10.3982/ECTA14690)
 * [Media and the stock market: Their relationship and abnormal dynamics around earnings announcements](https://doi.org/10.2139/ssrn.3192064)
 * [Questioning the News about Economic Growth: Sparse Forecasting using Thousands of News-Based Sentiment Values](https://doi.org/10.1016/j.ijforecast.2018.10.010)
@@ -20,13 +26,11 @@ The papers listed are ordered chronologically by year.
 * [Sentiments and economic activity: Evidence from US states](https://doi.org/10.1111/ecoj.12605)
 * [Jockeying for position in CEO letters: Impression management and sentiment analytics](https://doi.org/10.1111/fima.12219)
 * [How news and its context drive risk and returns around the world](https://doi.org/10.1016/j.jfineco.2018.11.009)
-* [Hedging Climate Change News](https://doi.org/10.2139/ssrn.3317570)
 * [Text as data](https://doi.org/10.1257/jel.20181020)
 * [Measuring Group Differences in High-Dimensional Choices: Method and Application to Congressional Speech](https://doi.org/10.3982/ECTA16566)
 * [Does Unusual News Forecast Market Stress?](https://doi.org/10.1017/S0022109019000127)
 * [Text selection](https://doi.org/10.2139/ssrn.3491942)
 * [The value of news for economic developments](https://doi.org/10.1016/j.jeconom.2018.11.013)
-* [News-driven inflation expectations and information rigidities](https://www.norges-bank.no/en/news-events/news-publications/Papers/Working-Papers/2019/52019)
 * [Fad or future? Automated analysis of financial text and its implications for corporate reporting](https://doi.org/10.1080/00014788.2019.1611730)
 * [News media and delegated information choice](https://doi.org/10.1016/j.jet.2019.02.001)
 * [Analyzing media messages: Using quantitative content analysis in research](https://doi.org/10.4324/9780203551691)
@@ -56,12 +60,12 @@ The papers listed are ordered chronologically by year.
 * [Quantifying sentiment with news media across local housing markets](https://doi.org/10.1093/rfs/hhy036)
 * [The promise and challenges of new datasets for accounting research](https://doi.org/10.1016/j.aos.2018.03.008)
 * [textir: Inverse Regression for Text Analysis](https://CRAN.R-project.org/package=textir)
-* [Words are the New Numbers: A Newsy Coincident Index of the Business Cycle](https://doi.org/10.1080/07350015.2018.1506344)
 * [Belgian economic policy uncertainty index: Improvement through text mining](https://doi.org/10.1016/j.ijforecast.2016.08.006)
 
 ### 2017
 
 * [Social Media and Fake News in the 2016 Election](https://doi.org/10.1257/jep.31.2.211)
+* [Developing news-based Economic Policy Uncertainty index with unsupervised machine learning](https://doi.org/10.1016/j.econlet.2017.06.032)
 * [Media sentiment and IPO underpricing](https://doi.org/10.1016/j.jcorpfin.2017.06.003)
 * [SenSR: A sentiment-based systemic risk indicator](https://www.dnb.nl/binaries/Working%20Paper%20No.%20553_tcm46-356707.pdf)
 * [Building News Measures from Textual Data and an Application to Volatility Forecasting](https://doi.org/10.3390/econometrics5030035)
@@ -155,6 +159,7 @@ The papers listed are ordered chronologically by year.
 ### 2013
 
 * [Sentiments](https://doi.org/10.3982/ECTA10008)
+* [A biterm topic model for short texts](https://doi.org/10.1145/2488388.2488514)
 * [Good news, bad news, and consumer confidence](https://doi.org/10.1111/j.1540-6237.2012.00900.x)
 * [The Rise of Big Data: How It's Changing the Way We Think About the World](https://www.jstor.org/stable/23526834 )
 * [Recent Developments in openSMILE, the Munich Open-source Multimedia Feature Extractor](https://doi.org/10.1145/2502081.2502224)

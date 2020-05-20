@@ -3,7 +3,7 @@
 
 # Links
 
-We group below a set of various links to public code, data and tools.
+We group below various links to public code, data and tools.
 
 ### Data
 
