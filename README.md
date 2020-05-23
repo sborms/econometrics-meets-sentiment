@@ -5,5 +5,5 @@ To add material, go to the [docs](https://github.com/sborms/econometrics-meets-s
 
 ![logo](docs/logo.png)
 
-This page was created as part of a [survey](https://doi.org/10.2139/ssrn.2652876) paper on the sentometrics research field.
+This page was created as part of a [survey](https://doi.org/10.1111/joes.12370) paper on the sentometrics research field.
 

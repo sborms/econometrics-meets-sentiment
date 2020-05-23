@@ -8,8 +8,8 @@ The papers listed are ordered chronologically by year.
 ### 2020
 
 * [Forecasting the equity premium: Mind the news!](https://doi.org/10.1093/rof/rfaa007)
-* [Econometrics Meets Sentiment: An Overview of Methodology and Applications](https://doi.org/10.2139/ssrn.2652876)
-* [Economic Policy Uncertainty in the Euro Area: An Unsupervised Machine Learning Approach](https://ssrn.com/abstract=3516756)
+* [Econometrics Meets Sentiment: An Overview of Methodology and Applications](https://doi.org/10.1111/joes.12370)
+* [Economic policy uncertainty in the Euro area: An unsupervised machine learning approach](https://ssrn.com/abstract=3516756)
 * [COVID-Induced Economic Uncertainty](https://www.policyuncertainty.com/media/COVID-Induced%20Economic%20Uncertainty.pdf)
 * [The Economic Policy Uncertainty index for Flanders, Wallonia and Belgium](https://doi.org/10.2139/ssrn.3580000)
 * [Hedging Climate Change News](https://doi.org/10.1093/rfs/hhz072)
@@ -65,7 +65,7 @@ The papers listed are ordered chronologically by year.
 ### 2017
 
 * [Social Media and Fake News in the 2016 Election](https://doi.org/10.1257/jep.31.2.211)
-* [Developing news-based Economic Policy Uncertainty index with unsupervised machine learning](https://doi.org/10.1016/j.econlet.2017.06.032)
+* [Developing news-based economic policy uncertainty index with unsupervised machine learning](https://doi.org/10.1016/j.econlet.2017.06.032)
 * [Media sentiment and IPO underpricing](https://doi.org/10.1016/j.jcorpfin.2017.06.003)
 * [SenSR: A sentiment-based systemic risk indicator](https://www.dnb.nl/binaries/Working%20Paper%20No.%20553_tcm46-356707.pdf)
 * [Building News Measures from Textual Data and an Application to Volatility Forecasting](https://doi.org/10.3390/econometrics5030035)
