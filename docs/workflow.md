@@ -1,5 +1,5 @@
 
-| [Welcome](index.md) | [Papers](papers.md) | [Links](links.md) | [Workflow](workflow.md) | [Glossary](glossary.md) |
+| [Papers](index.md) | [Links](links.md) | [Workflow](workflow.md) | [Glossary](glossary.md) |
 
 # Workflow
 

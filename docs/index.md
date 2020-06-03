@@ -1,9 +1,9 @@
 
-| [Welcome](index.md) | [Papers](papers.md) | [Links](links.md) | [Workflow](workflow.md) | [Glossary](glossary.md) |
+| [Papers](index.md) | [Links](links.md) | [Workflow](workflow.md) | [Glossary](glossary.md) |
     
 # Papers
     
-The papers listed are ordered chronologically by year.
+The papers listed are ordered chronologically by year. **Last update**: June 03, 2020.
 
 ### 2020
 

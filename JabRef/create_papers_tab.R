@@ -5,7 +5,7 @@
 
 HEADER <- paste0(
 c("
-| [Welcome](index.md) | [Papers](papers.md) | [Links](links.md) | [Workflow](workflow.md) | [Glossary](glossary.md) |
+| [Papers](index.md) | [Links](links.md) | [Workflow](workflow.md) | [Glossary](glossary.md) |
     
 # Papers
     
@@ -34,7 +34,7 @@ for (i in seq_along(periods)) {
 
 out <- c(HEADER, out, "")
 
-con <- file("docs/papers.md")
+con <- file("docs/index.md")
 writeLines(out, con, sep = "\n")
 close(con)
 
