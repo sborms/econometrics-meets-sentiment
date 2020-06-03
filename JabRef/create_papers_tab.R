@@ -1,15 +1,17 @@
 
 ### TODO: don't overwrite non-JabRef collaborative entries if any
 ### TODO: deal in JabRef parsing with special symbols (e.g. \" in naïve)
+### TODO: make links open in new tab!
 
-HEADER <- c(
-"
+HEADER <- paste0(
+c("
 | [Welcome](index.md) | [Papers](papers.md) | [Links](links.md) | [Workflow](workflow.md) | [Glossary](glossary.md) |
     
 # Papers
     
-The papers listed are ordered chronologically by year.
-"
+The papers listed are ordered chronologically by year. **Last update**: "), 
+paste0(format(Sys.Date(), "%B %d, %Y"), "."),
+"\n"
 )
 
 papersRaw <- readLines("JabRef/papers_in.txt")

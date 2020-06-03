@@ -29,6 +29,7 @@ The papers listed are ordered chronologically by year.
 * [Text as data](https://doi.org/10.1257/jel.20181020)
 * [Measuring Group Differences in High-Dimensional Choices: Method and Application to Congressional Speech](https://doi.org/10.3982/ECTA16566)
 * [Does Unusual News Forecast Market Stress?](https://doi.org/10.1017/S0022109019000127)
+* [Historical analysis of national subjective wellbeing using millions of digitized books](https://doi.org/10.1038/s41562-019-0750-z)
 * [Text selection](https://doi.org/10.2139/ssrn.3491942)
 * [The value of news for economic developments](https://doi.org/10.1016/j.jeconom.2018.11.013)
 * [Fad or future? Automated analysis of financial text and its implications for corporate reporting](https://doi.org/10.1080/00014788.2019.1611730)
