@@ -9,8 +9,9 @@ c("
     
 # Papers
     
-The papers listed are ordered chronologically by year. **Last update**: "), 
-paste0(format(Sys.Date(), "%B %d, %Y"), "."),
+The papers listed are ordered chronologically by year."),
+"\n",
+paste0("**Last update**: ", format(Sys.Date(), "%B %d, %Y"), "."),
 "\n"
 )
 

@@ -3,7 +3,8 @@
     
 # Papers
     
-The papers listed are ordered chronologically by year. **Last update**: June 03, 2020.
+The papers listed are ordered chronologically by year.
+**Last update**: June 03, 2020.
 
 ### 2020
 
