@@ -13,7 +13,7 @@
 
 **Polarity** The polarity (or semantic orientation) of an expression (whether it is a text, a sound, or something else) represents its degree of positivity. Polarity categories go from very positive to very negative, discrete or continuous.
 
-**Sentiment** Sentiment equals the disposition of an entity toward an entity, expressed via a certain medium. This working definition consists of (1) the expression by an entity of its disposition, in the form of verbal or non-verbal communication, (2) the expression has a polarity or a semantic orientation measurable on a discrete or a continuous scale, and (3) the expression is oriented toward (an aspect of) an entity.
+**Sentiment** Sentiment equals the disposition of an entity toward an entity, expressed via a certain medium. This working definition consists of (1) the expression by an entity of its disposition, in the form of verbal or nonverbal communication, (2) the expression has a polarity or a semantic orientation measurable on a discrete or a continuous scale, and (3) the expression is oriented toward (an aspect of) an entity.
 
 **Sentiment analysis** Sentiment analysis is about the extraction of sentiment from the medium it is expressed through. Multimodal sentiment analysis covers textual, audio, and visual media.
 
