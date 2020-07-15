@@ -1,7 +1,7 @@
 * 2020 - [Forecasting the equity premium: Mind the news!](https://doi.org/10.1093/rof/rfaa007)
 * 2020 - [Econometrics Meets Sentiment: An Overview of Methodology and Applications](https://doi.org/10.1111/joes.12370)
 * 2020 - [Economic policy uncertainty in the Euro area: An unsupervised machine learning approach](https://ssrn.com/abstract=3516756)
-* 2020 - [COVID-Induced Economic Uncertainty](https://www.policyuncertainty.com/media/COVID-Induced%20Economic%20Uncertainty.pdf)
+* 2020 - [COVID-Induced Economic Uncertainty](https://www.nber.org/papers/w26983)
 * 2020 - [The Economic Policy Uncertainty index for Flanders, Wallonia and Belgium](https://doi.org/10.2139/ssrn.3580000)
 * 2020 - [Hedging Climate Change News](https://doi.org/10.1093/rfs/hhz072)
 * 2020 - [News-driven inflation expectations and information rigidities](https://doi.org/10.1016/j.jmoneco.2020.03.004)
